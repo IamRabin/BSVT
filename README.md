@@ -4,5 +4,5 @@ This repo contains the implementation of the BSVT model architecture. Currently,
 
 # Model Architecture
 
-![BSVT](./images/model.png)
+![BSVT](./images/Model_flow.png)
 
